@@ -1,0 +1,8 @@
+filename,qpudatashards/ethics/NeuroContentSafety_2026v1.aln
+destination-folder,qpudatashards/ethics
+destination-path,module,version,role,security-protocol,interop-standard,identity-mgmt,ai-agent-integration,device-type,authentication,digital-twin,edge-analytics,compliance,log-persistence
+vnode/ethics/content-safety.aln,NeuroContentSafety,1.0.0,ContentGovernor,AES256-PostQ,ALN-PolicyAPI,OIDCVital,MistralQwen,ClusterNode,FIDO2-WebAuthn,Enabled,SNNContentClass,GDPR+EUAI+HIPAA,HyperledgerVital
+vnode/ethics/bci-safety-kernel.aln,BCIContentKernel,1.0.0,BCIStreamFilter,AES256-KernelBus,BCI-Bus-API,DIDVitalChain,VitalNetSafetyKernel,BCIEdge,DNAMFA+Role3,Enabled,SNNSignalRisk,FCC15+MedDevice,KernelAudit
+vnode/ethics/engine-bridge.unity,EngineSafetyUnity,1.0.0,GameEngineBridge,Argon2-TLS,HTTP3+WebSocket,OAuthVital,GPTAugment,XREdge,FIDO2Portal,Enabled,None,CCPA+COPPA,ImmutableEdgeLogs
+vnode/ethics/federated-classifier.aln,FedContentClass,1.0.0,FederatedFilterNode,ChaCha20-ZT,FL-gRPC,OIDC-Research,MistralQwen,EdgeServer,None,Enabled,SNNClassifier,OECD+DataSov,CephRADOSLogs
+vnode/ethics/governance-dashboard,NeuroGovernanceUI,1.0.0,TransparencyPortal,AES256-GCM,REST+GraphQL,WebAuthn,ClaudeEnhance,WebPortal,FIDO2Portal,Enabled,None,ISO42001+NIST-AI,HyperledgerVital
