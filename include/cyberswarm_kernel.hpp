@@ -1,9 +1,3 @@
-
-## 3. include/cyberswarm_kernel.hpp
-
-```cpp
-// File: include/cyberswarm_kernel.hpp
-// Destination: PhoenixNeurostackEcoGov/include/cyberswarm_kernel.hpp
 #pragma once
 #include <vector>
 #include <string>
